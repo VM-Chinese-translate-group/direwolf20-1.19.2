@@ -1,0 +1,7 @@
+任务分配见“任务分配.xls”
+
+不要在en_us.json中直接汉化！！
+不要在en_us.json中直接汉化！！
+不要在en_us.json中直接汉化！！
+
+先复制en_us.json并改名为zh_cn.json，然后在其中汉化！！
