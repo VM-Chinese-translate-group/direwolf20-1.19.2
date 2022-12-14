@@ -11,7 +11,7 @@
   "config.jade.plugin_refinedcooking.kitchen_station": "厨房控制台",
   "config.jade.plugin_refinedcooking.kitchen_access_point": "厨房接入点",
   "jade.refinedcooking:kitchen_station": "已连接到%s的网络",
-  "jade.refinedcooking:online_transmitting": "连接到网络-传输",
-  "jade.refinedcooking:online_no_transmission": "连接到网络-非传输",
+  "jade.refinedcooking:online_transmitting": "连接到网络 - 传输",
+  "jade.refinedcooking:online_no_transmission": "连接到网络 - 非传输",
   "jade.refinedcooking:offline": "未连接到网络"
 }

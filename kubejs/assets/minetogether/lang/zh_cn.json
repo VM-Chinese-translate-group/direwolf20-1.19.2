@@ -105,7 +105,7 @@
     
     "minetogether.details.login": "登录中. 请稍候",
     "minetogether.details.loginerror": "发生错误. 错误:",
-    "minetogether.details.loginsuccess": "已成功登录。继续订购！",
+    "minetogether.details.loginsuccess": "已成功登录. 继续订购！",
     "minetogether.details.accountexists": "此邮箱存在账号. 请登录或尝试其他邮箱.",
     
     "minetogether.quote.vpsfeatures": "VPS功能",
@@ -122,7 +122,7 @@
     "minetogether.quote.vpsincluded5": "免费安装或切换游戏",
     "minetogether.quote.vpsincluded6": "每月订阅 - 随时取消",
     "minetogether.quote.vpsincluded7": "提前7天通知",
-    "minetogether.quote.requirements": "根据您的要求，我们建议",
+    "minetogether.quote.requirements": "根据您的要求, 我们建议",
     "minetogether.quote.tax": "税款",
     "minetogether.quote.subtotal": "小计",
     "minetogether.quote.total": "总计",
@@ -159,8 +159,8 @@
     "minetogether.info.country": "国家",
     "minetogether.info.phone": "手机号码",
     
-    "minetogether.order.info1": "要继续下单, 请典籍下面的下单按钮.",
-    "minetogether.order.info2": "继续即表示您同意CreeperHost的(服务条款|https://creeper.host/tos)和(政策|https://creeper.host/policies).",
+    "minetogether.order.info1": "要继续下单, 请点击下面的下单按钮.",
+    "minetogether.order.info2": "继续即表示您同意CreeperHost的（服务条款|https://creeper.host/tos）和政策|https://creeper.host/policies）.",
     "minetogether.order.info3": "将生成订单和发票, 但你无法付款.",
     "minetogether.order.info4": "如果未收到付款, 72小时后将自动取消.",
     "minetogether.order.url": "点击在Web浏览器中打开",
@@ -179,12 +179,12 @@
     "minetogether.connect.open.failed": "无法向好友打开本地游戏: %s",
     "minetogether.connect.join.full.descript": "已满人",
     "minetogether.connect.join.full": "好友的服务器已满. 请联系您的好友!",
-    "minetogether.connect.join.tried.name": "您的好友 %s 尝试加入, 但无法加入, 因为已达到玩家限制(\n有关详细信息, 请参阅https://minetogether.io/full/%s)",
+    "minetogether.connect.join.tried.name": "您的好友 %s 尝试加入, 但无法加入, 因为已达到玩家限制（\n有关详细信息, 请参阅https://minetogether.io/full/%s）",
     "minetogether.connect.join.notfriend": "您不能加入, 因为您不是此用户的MineTogether好友!",
     "minetogether.connect.unavailable": "连接不可用：%s",
     "minetogether.connect.unavailable.website": "连接不可用: %s\n\n您想现在访问MineTogeter网站吗?",
-    "minetogether.connect.title": "多人游戏 (MineTogether)",
-    "minetogether.connect.scan": "扫描 MineTogether连接和LAN以查找可用世界",
+    "minetogether.connect.title": "多人游戏 （MineTogether）",
+    "minetogether.connect.scan": "扫描MineTogether连接和LAN以查找可用世界",
     "minetogether.connect.scan.offline": "扫描LAN以查找可用世界",
     "minetogether.connect.friendentry.title": "MineTogether 好友服务器"
 }
