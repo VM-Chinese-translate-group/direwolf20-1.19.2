@@ -6,7 +6,7 @@
   "gui.refinedcooking.kitchen_access_point": "厨房接入点",
   "gui.refinedcooking.kitchen_access_point.distance": "%d 方块",
   "gui.refinedcooking.kitchen_access_point.missing_card": "缺少厨房网络卡",
-  "misc.refinedcooking.kitchen_network_card.tooltip": "连接到 %d, %d, %d 中的 %s.",
+  "misc.refinedcooking.kitchen_network_card.tooltip": "连接到%d，%d，%d中的%s。",
   "tooltip.refinedcooking:kitchen_station.description": "连接到精致存储网络的工作站节点",
   "config.jade.plugin_refinedcooking.kitchen_station": "厨房控制台",
   "config.jade.plugin_refinedcooking.kitchen_access_point": "厨房接入点",
