@@ -1,9 +1,9 @@
 {
-  "block.snad.snad": "Snad",
-  "block.snad.red_snad": "Red Snad",
-  "block.snad.soul_snad": "Soul Snad",
+  "block.snad.snad": "子沙",
+  "block.snad.red_snad": "红子沙",
+  "block.snad.soul_snad": "灵魂子沙",
 
-  "config.title": "Snad Config",
-  "config.general": "General Tab",
-  "config.speed": "Growth increase when planted on Snad or Red Snad"
+  "config.title": "子沙设置",
+  "config.general": "通用标签",
+  "config.speed": "加速种植在子沙上作物生长速度"
 }
