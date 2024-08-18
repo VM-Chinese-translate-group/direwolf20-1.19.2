@@ -104,7 +104,7 @@
   "modonomicon.gui.hover.book_link_locked": "%s。\n%s",
   "modonomicon.gui.hover.book_link_locked_info": "您需要解锁此入口才能打开链接！",
   "modonomicon.gui.hover.http_link": "浏览：%s",
-  "modonomicon.gui.hover.item_link_info": "点击显示在JEI中配方, shift点击显示用法。",
+  "modonomicon.gui.hover.item_link_info": "点击显示在JEI中配方，shift点击显示用法。",
   "modonomicon.gui.hover.item_link_info.no_jei": "安装JEI，单击后显示配方/用法。",
   "modonomicon.gui.hover.item_link_info_line2": "如果没有找到配方/用法，什么也不做。",
   "modonomicon.gui.no_errors_found": "未发现错误。你不应该看到这个页面！",
